@@ -10,4 +10,6 @@ Pierwszy poziom zmiany w local git
 
 drugi poziom zmian w local git
 
+## End
+
 Sample website with plenty of files for demos
