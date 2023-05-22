@@ -13,3 +13,7 @@ drugi poziom zmian w local git
 ## End
 
 Sample website with plenty of files for demos
+
+## Double end
+
+## Third end
